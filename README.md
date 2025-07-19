@@ -100,4 +100,6 @@ Multiplication of the given numbers is 4895
 Enter the alphabet: d
 It is a consonant.
 
-> 
+> Finding day of the week from the input number
+Enter number to know the day of the week(1 to 7): 6
+Its Saturday...woohoo!
