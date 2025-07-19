@@ -1,18 +1,18 @@
-#C++ Experiment 5: To study and implement C++ decision making statements
+# C++ Experiment 5: To study and implement C++ decision making statements
 
-##Aim: 
+## Aim: 
 > To write C++ programs using if-else and nested if statements.
 > To use switch case for multiple conditions.
 
-##Objectives:
+## Objectives:
 > Learn how to use if-else and nested if in real-life problems.
 > Understand how switch case works and how to use break and exit(0).
 
-##Theory:
-###If-Else Statement
+## Theory:
+### If-Else Statement
 > The if-else statement is used when we want to do know and decide if a condition is true or false.
 
-####Syntax
+#### Syntax
 ```
 if (condition) {
     // Code runs if condition is true
@@ -21,11 +21,11 @@ else {
     // Code runs if condition is false
 }
 ```
-###Nested If Statement
+### Nested If Statement
 > When an if is written inside another if, it is called a nested if.
 > Used when there are multiple conditions to check.
  
-####Syntax
+#### Syntax
 ```
 if (condition1) {
     // Code if condition1 is true
@@ -41,13 +41,13 @@ else {
     // Code if condition1 is false
 }
 ```
-###Switch Case Statement
+### Switch Case Statement
 > Used when we have to choose between many options based on one input variable.
 > Helps reduce multiple if-else if lines.
 > Use break to stop the program from checking more cases and overrwritting it.
 > If no case matches, it runs the default statement.
 
-####Syntax
+#### Syntax
 ```
 switch (expression) {
     case value1:
@@ -63,14 +63,14 @@ switch (expression) {
         // Code if no case matches
 }
 ```
-##Program Descriptions
+## Program Descriptions
 - Concepts Used
 > if-else
 > nested if
 > switch case
 > break and exit(0)
 
-##Sample Programs & Outputs
+## Sample Programs & Outputs
 
 > Check if Number is Even or Odd
 ```
