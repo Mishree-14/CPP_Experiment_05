@@ -27,6 +27,7 @@ else {
 > Used when there are multiple conditions to check.
  
 Syntax
+```
 if (condition1) {
     // Code if condition1 is true
 
@@ -40,7 +41,7 @@ if (condition1) {
 else {
     // Code if condition1 is false
 }
-
+```
 Switch Case Statement
 > Used when we have to choose between many options based on one input variable.
 > Helps reduce multiple if-else if lines.
@@ -48,6 +49,7 @@ Switch Case Statement
 > If no case matches, it runs the default statement.
 
 Syntax
+```
 switch (expression) {
     case value1:
         // Code block 
@@ -61,7 +63,7 @@ switch (expression) {
     default:
         // Code if no case matches
 }
-
+```
 Program Descriptions
 - Concepts Used
 > if-else
@@ -72,20 +74,27 @@ Program Descriptions
 Sample Programs & Outputs
 
 > Check if Number is Even or Odd
+```
 Enter any number: -23  
 The number is negative.
- 
+```
 > Finding greatese of 3 numbers 
+```
 Enter 3 numbers: 2 8 0
 8 is greatest
+```
 
+```
 Enter 3 numbers: 0 1 1
 1 is greatest
-
+```
+```
 Enter 3 numbers: -4 5 4
 5 is greatest
+```
 
 > Calculator (switch case)
+``` 
 Available operations on the calculator:
 A) Addition
 B) Subtraction
@@ -97,11 +106,14 @@ Enter num 1:89
 Enter num 2:55
 
 Multiplication of the given numbers is 4895
-
+```
 > Checking given alphabet is Vowel or Consonant
+```
 Enter the alphabet: d
 It is a consonant.
-
+```
 > Finding day of the week from the input number
+```
 Enter number to know the day of the week(1 to 7): 6
 Its Saturday...woohoo!
+```
