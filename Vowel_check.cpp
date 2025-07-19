@@ -11,10 +11,10 @@ int main() {
     cout<<"Enter the alphabet: ";
     cin>>alphabet;
     
-    if (alphabet == A || alphabet == E || alphabet == I || alphabet == O||alphabet == U ){
+    if (alphabet == 'A' || alphabet == 'E' || alphabet == 'I' || alphabet == 'O' || alphabet == 'U'){
         cout<<"\n"<<"It is a vowel.";
     }
-    else if (alphabet == a || alphabet == e|| alphabet == i || alphabet == o|| alphabet == u){
+    else if (alphabet == 'a' || alphabet == 'e' || alphabet == 'i' || 'alphabet == o' || alphabet == 'u'){
         cout<<"\n"<<"It is a vowel.";
     }
     else {
