@@ -96,15 +96,8 @@ Enter num 2:55
 
 Multiplication of the given numbers is 4895
 
-> Traffic Signal Meaning
-cpp
-Copy
-Edit
-Enter color code (R/G/Y): G  
-Go safely!
-cpp
-Copy
-Edit
-Enter color code (R/G/Y): B  
-Invalid Signal
+> Checking given alphabet is Vowel or Consonant
+Enter the alphabet: d
+It is a consonant.
 
+> 
