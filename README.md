@@ -68,26 +68,21 @@ Program Descriptions
 > break and exit(0)
 
 Sample Programs & Outputs
+
 > Check if Number is Even or Odd
 Enter any number: -23  
 The number is negative.
-🔹 Grade Calculator (Nested If)
-cpp
-Copy
-Edit
-Enter your marks: 93  
-You got Grade A+
-cpp
-Copy
-Edit
-Enter your marks: 72  
-You got Grade B
-🔹 Odd or Even using Switch (0 for even, 1 for odd)
-cpp
-Copy
-Edit
-Enter a number: 11  
-The number is odd
+> 
+> Finding greatese of 3 numbers 
+Enter 3 numbers: 2 8 0
+8 is greatest
+
+Enter 3 numbers: 0 1 1
+1 is greatest
+
+Enter 3 numbers: -4 5 4
+5 is greatest
+
 🔹 Mini Calculator (switch case)
 cpp
 Copy
