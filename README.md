@@ -72,7 +72,7 @@ Sample Programs & Outputs
 > Check if Number is Even or Odd
 Enter any number: -23  
 The number is negative.
-> 
+ 
 > Finding greatese of 3 numbers 
 Enter 3 numbers: 2 8 0
 8 is greatest
@@ -83,17 +83,8 @@ Enter 3 numbers: 0 1 1
 Enter 3 numbers: -4 5 4
 5 is greatest
 
-🔹 Mini Calculator (switch case)
-cpp
-Copy
-Edit
-Enter two numbers: 10 5  
-1: Add  
-2: Subtract  
-3: Multiply  
-4: Divide  
-Enter your choice: 3  
-Product: 50
+> Calculator (switch case)
+
 🔹 Traffic Signal Meaning
 cpp
 Copy
