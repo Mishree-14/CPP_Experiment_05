@@ -84,8 +84,19 @@ Enter 3 numbers: -4 5 4
 5 is greatest
 
 > Calculator (switch case)
+Available operations on the calculator:
+A) Addition
+B) Subtraction
+C) Multiplication
+D) Divison
+Enter operation you want to do(A,B,C,D): C
 
-🔹 Traffic Signal Meaning
+Enter num 1:89
+Enter num 2:55
+
+Multiplication of the given numbers is 4895
+
+> Traffic Signal Meaning
 cpp
 Copy
 Edit
