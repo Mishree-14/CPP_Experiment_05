@@ -22,7 +22,7 @@ int main(){
             cout<<c<<" is greatest"<<endl;
         }
         else{
-            cout<<"Both "<<a<<" &"<<b<<" are greater than "<<c<<"<<endl;
+            cout<<"Both "<<a<<" &"<<b<<" are greater than "<<c<<""<<endl;
         }
     }
     
@@ -34,7 +34,7 @@ int main(){
             cout<<c<<" is greatest"<<endl;
         }
         else{
-            cout<<"Both "<<b<<" &"<<c<<" are greater than <<a<<"<<endl;
+            cout<<"Both "<<b<<" &"<<c<<" are greater than <<a<<""<<endl;
         }
     }
     
