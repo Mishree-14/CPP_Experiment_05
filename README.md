@@ -13,12 +13,14 @@ Theory:
 > The if-else statement is used when we want to do know and decide if a condition is true or false.
 
 Syntax
+```
 if (condition) {
     // Code runs if condition is true
 }
 else {
     // Code runs if condition is false
 }
+```
 
 - Nested If Statement
 > When an if is written inside another if, it is called a nested if.
